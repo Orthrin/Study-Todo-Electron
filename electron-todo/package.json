@@ -15,7 +15,7 @@
   "author": "Orthrin",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "electron": "^7.1.9",
+    "electron": "^7.2.4",
     "knex": "^0.20.8",
     "sqlite3": "^4.1.1"
   },
