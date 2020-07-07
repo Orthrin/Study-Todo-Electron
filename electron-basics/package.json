@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Orthrin/Study-Todo-Electron#readme",
   "dependencies": {
-    "electron": "^7.1.7"
+    "electron": "^7.2.4"
   }
 }
